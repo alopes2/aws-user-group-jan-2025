@@ -1,2 +1,2 @@
-GET https://XXX.execute-api.eu-central-1.amazonaws.com/live/movies/1
+GET https://tgey0zvmn7.execute-api.eu-central-1.amazonaws.com/live/movies/1
 Content-Type: application/json
