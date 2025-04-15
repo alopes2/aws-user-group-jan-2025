@@ -1,2 +1,2 @@
-GET https://pia5g172c0.execute-api.eu-central-1.amazonaws.com/live/movies/1
+GET https://pia5g172c0.execute-api.eu-central-1.amazonaws.com/live/movies/7830174c-ffe4-4dd6-8ee5-323bb3f6c2ae
 Content-Type: application/json
