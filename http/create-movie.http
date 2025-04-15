@@ -1,4 +1,4 @@
-POST https://tgey0zvmn7.execute-api.sa-east-1.amazonaws.com/live/movies
+POST https://tgey0zvmn7.execute-api.eu-central-1.amazonaws.com/live/movies
 Content-Type: application/json
 
 {

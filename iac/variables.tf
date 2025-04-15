@@ -1,7 +1,7 @@
 variable "region" {
   description = "Default region of your resources"
   type        = string
-  default     = "sa-east-1"
+  default     = "eu-central-1"
 }
 
 variable "account_id" {
