@@ -7,9 +7,8 @@ terraform {
   }
 
   backend "s3" {
-    bucket       = "terraform-medium-api-notification"
-    key          = "aws-user-group-jan-2025/state.tfstate"
-    use_lockfile = true
+    bucket = "terraform-medium-api-notification"
+    key    = "aws-user-group-jan-2025/state.tfstate"
   }
 }
 
